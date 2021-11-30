@@ -1,0 +1,54 @@
+[
+  {
+    "platformId": 0,
+    "name": "Cozy"
+  },
+  {
+    "platformId": 1,
+    "name": "Yearn"
+  },
+  {
+    "platformId": 2,
+    "name": "Aave"
+  },
+  {
+    "platformId": 3,
+    "name": "Curve"
+  },
+  {
+    "platformId": 4,
+    "name": "Compound"
+  },
+  {
+    "platformId": 5,
+    "name": "Uniswap"
+  },
+  {
+    "platformId": 6,
+    "name": "Badger"
+  },
+  {
+    "platformId": 7,
+    "name": "Saddle"
+  },
+  {
+    "platformId": 8,
+    "name": "Alchemix"
+  },
+  {
+    "platformId": 9,
+    "name": "Ribbon"
+  },
+  {
+    "platformId": 10,
+    "name": "Rari"
+  },
+  {
+    "platformId": 11,
+    "name": "Keep"
+  },
+  {
+    "platformId": 12,
+    "name": "Convex"
+  }
+]
